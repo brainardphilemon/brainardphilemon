@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Data Science**
 
+- ✨ I’m into **Competitive Programming**
+
 - 📫 How to reach me **brainardjagati27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
