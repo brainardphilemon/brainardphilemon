@@ -1,9 +1,9 @@
 <h1 align="center">Heyy 👋, I'm Brainard Philemon</h1>
 <h3 align="center">A Code Craftsman :)</h3>
 
-- 🌱 I’m currently learning **Data Science**
+-  I’m currently learning **Data Science**
 
-- ✨ I’m into **Competitive Programming**
+-  I’m into **Competitive Programming**
 
 - 📫 How to reach me **brainardjagati27@gmail.com**
 
